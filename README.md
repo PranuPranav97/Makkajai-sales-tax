@@ -84,3 +84,10 @@ Total: 74.68
   print the Quantity, Name, Final Price.
   Add the product tax to total tax and product amount to the total amount.
 - Print sales tax and total amount
+
+## How to run?
+
+Install dotnet and dotnet sdk.
+cd to project directory.
+Run ./run.sh
+Input the products as specified in the document.
